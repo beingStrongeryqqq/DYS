@@ -11,5 +11,8 @@ Gin 框架开发，数据管理使用 MySQL 和 Redis。项目中的关键技术
 
 该项目只包含后端内容，可用postman测试接口
 
+拉取镜像
 docker pull yqim/myapp:latest
+
+
 docker run -d --name myapp_container yqim/myapp:latest
